@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InicioScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipalScene.unity
+    guid: 0cf683aa4f7f7bc4ebc9af5c6da3b324
+  - enabled: 1
+    path: Assets/Scenes/NivelesScene.unity
+    guid: 5264f822afa905d46881b88e5bf6fe69
+  - enabled: 1
+    path: Assets/Scenes/ObtenerPersonajesScene.unity
+    guid: 7fe5435c052e7354bbffef8cd9c57e6d
+  - enabled: 1
+    path: Assets/Scenes/MejorarPersonajesScene.unity
+    guid: 4401a4bae8dca45438cb4a04afb63226
+  - enabled: 1
+    path: Assets/Scenes/VerPersonajesObtenidosScene.unity
+    guid: 3156d35a0f5e0204ea85603a76e5730f
+  - enabled: 1
+    path: Assets/Scenes/EditarEquipoScene.unity
+    guid: 4b234d38ae647324081699b39684ac1a
+  - enabled: 1
+    path: Assets/Scenes/CombateNivel1Scene.unity
+    guid: eb39f20efeeaec145bba8bb1f5d337e1
+  m_configObjects: {}

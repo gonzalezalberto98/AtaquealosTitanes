@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ce5da305d545164eb0cbc4f2433811c, type: 3}
+  m_Name: ArminArlert
+  m_EditorClassIdentifier: 
+  nombrePersonaje: Armin Arlert
+  artworkPersonaje: {fileID: 21300000, guid: d42f9db3699d161428c40846d1b2049d, type: 3}
+  artworkPersonajeCara: {fileID: 21300000, guid: 609b10eb3766a384a80a35678cb53c8b,
+    type: 3}
+  ataquePersonaje: 100
+  vidaPersonaje: 500
+  armaduraPersonaje: 250
+  habilidadPasiva: +20% Vida
+  habilidadActiva: Cura un 40% de la vida total

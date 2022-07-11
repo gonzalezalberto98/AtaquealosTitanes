@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ce5da305d545164eb0cbc4f2433811c, type: 3}
+  m_Name: JeanKirstein
+  m_EditorClassIdentifier: 
+  nombrePersonaje: Jean Kirstein
+  artworkPersonaje: {fileID: 21300000, guid: 9e0a26c084c4bf34aab27e3aac910f9c, type: 3}
+  artworkPersonajeCara: {fileID: 21300000, guid: cdb81a93f20e8e549ae4fc917adffb5a,
+    type: 3}
+  ataquePersonaje: 150
+  vidaPersonaje: 1500
+  armaduraPersonaje: 200
+  habilidadPasiva: +10% de Ataque y Armadura
+  habilidadActiva: +20% de Ataque y Armadura (10 seg.)

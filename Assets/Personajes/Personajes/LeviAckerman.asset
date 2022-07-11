@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ce5da305d545164eb0cbc4f2433811c, type: 3}
+  m_Name: LeviAckerman
+  m_EditorClassIdentifier: 
+  nombrePersonaje: Levi Ackerman
+  artworkPersonaje: {fileID: 21300000, guid: 3aee93aaddc9e754d9ecc8cdd3732972, type: 3}
+  artworkPersonajeCara: {fileID: 21300000, guid: ca708b190451b7c4aa34065dd05d4199,
+    type: 3}
+  ataquePersonaje: 400
+  vidaPersonaje: 3000
+  armaduraPersonaje: 500
+  habilidadPasiva: +20% Ataque
+  habilidadActiva: "Realiza un ataque giratorio de 1000 de da\xF1o"
